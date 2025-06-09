@@ -58,7 +58,7 @@ static const int clk_pin = D(S43);
 #endif
 #ifdef EXTERNAL_SYNC_TRS
 static const int clk_pin = D(S43);
-static const int clk_start_pin = D(S42);
+static const int clk_start_pin = D(S40);
 #endif
 
 ////////////////////////////////////////////////////////////

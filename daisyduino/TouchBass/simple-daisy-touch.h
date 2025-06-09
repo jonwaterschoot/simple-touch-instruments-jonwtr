@@ -101,8 +101,8 @@ enum class Digital {
     S33 = D18,
     S34 = D19,
     S35 = D20,
-    S42 = D27,
-    S43 = D28
+    S40 = D25,
+    S43 = D28 
 };
 
 template<class AP, class DP>
